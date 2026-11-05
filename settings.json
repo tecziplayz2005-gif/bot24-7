@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "chaosphagesmp.play.hosting",
-    "port": 25818,
+    "port": 25990,
     "version": "1.21.11",
     "try-creative": false
   },
