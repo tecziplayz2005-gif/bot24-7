@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Online_AnyTime",
-    "password": "",
+    "password": "12345678",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "SoloPlayz"
+      "password": "12345678"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium Server? https://discord.gg/VRMUnDkf95"
+        "I'm a Advertisor",
+        "Subscribe to TecZi PlayZzZ!",
+        "Want DC? https://discord.gg/6RsVJ9ATg"
       ]
     },
     "chat-log": true,
